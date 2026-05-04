@@ -1,0 +1,13 @@
+# Streamlit
+streamlit==1.31.0
+
+# Data processing y visualización
+pandas==2.2.0
+numpy==1.26.3
+plotly==5.18.0
+
+# API requests
+requests==2.31.0
+
+# Utilidades
+python-dotenv==1.0.0
